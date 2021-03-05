@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://img2.fonwall.ru/o/qx/happy-mood-mountain-nature.jpeg" alt="cover" />
 </div>
 
-<h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align='center'> Hardik <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hardikdigiqt.Hardikdigiqt)
